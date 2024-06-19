@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 19 Jun 2024 14:45:01 at https://marketifythemes.net/html/aale/index-dark.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://marketifythemes.net/html/aale/index-dark.html -O1 "C:\Users\mitta\Downloads\Akangkha PPW" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:45:50	Error: 	"Not Found" (404) at link https://marketifythemes.net/html/aale/css/owl.video.play.png (from https://marketifythemes.net/html/aale/css/plugins.css)
+14:45:50	Error: 	"Not Found" (404) at link https://marketifythemes.net/html/aale/Trident/ (from https://marketifythemes.net/html/aale/js/plugins.js)
+14:45:50	Error: 	"Not Found" (404) at link https://marketifythemes.net/html/aale/Edge/ (from https://marketifythemes.net/html/aale/js/plugins.js)
+14:45:50	Error: 	"Not Found" (404) at link https://marketifythemes.net/html/aale/img.svg (from https://marketifythemes.net/html/aale/js/init.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 49 seconds : 67 links scanned, 62 files written (5986794 bytes overall) [4415467 bytes received at 90111 bytes/sec], 3071219 bytes transferred using HTTP compression in 40 files, ratio 46%, 22.3 requests per connection
+(4 errors, 0 warnings, 0 messages)
